@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Glucoalert Alpha</string>
+    <string name="welcome">Cek kesehatan mu di GlucoAlert</string>
+    <string name="start">Mulai</string>
+    <string name="diagnose">Diagnosis</string>
+    <string name="information">Informasi</string>
+    <string name="question_1">Sering Makan?</string>
+    <string name="question_2">Sering Haus?</string>
+    <string name="question_3">Sering Buang Air Kecil?</string>
+    <string name="question_4">Memiliki riwayat keluarga diabetes?</string>
+    <string name="question_5">Sering makan makanan cepat saji?</string>
+    <string name="question_6">Jarang Olahraga?</string>
+    <string name="question_7">Luka susah sembuh?</string>
+    <string name="question_8">Obesitas?</string>
+    <string name="question_9">Mengidap hipertensi?</string>
+    <string name="question_10">Etnis Asia?</string>
+
+    <string name="information_text">
+    Untuk mencegah diabetes, mulailah dengan pola makan sehat:\n\n
+    \u2022 Kurangi konsumsi gula, minuman manis, dan makanan dari tepung putih. Ganti dengan karbohidrat kompleks seperti beras merah, oatmeal, atau roti gandum utuh.\n
+    \u2022 Perbanyak makan sayur dan buah rendah gula, seperti apel, jeruk, atau beri.\n
+    \u2022 Pastikan tubuh mendapat protein sehat, misalnya dari ikan, ayam tanpa kulit, tahu, tempe, atau kacang-kacangan.\n
+    \u2022 Hindari makanan berlemak jenuh dan trans, seperti gorengan dan makanan cepat saji.\n
+    \u2022 Pilih makanan tinggi serat, seperti kacang-kacangan, biji-bijian, dan sayuran hijau, untuk membantu mengontrol kadar gula dalam darah.\n\n
+    Dengan pola makan ini, risiko diabetes dapat ditekan.
+    </string>
+
+
+    <string-array name="options_array">
+        <item>Sangat Yakin</item>
+        <item>Yakin</item>
+        <item>Cukup Yakin</item>
+        <item>Kurang Yakin</item>
+        <item>Tidak Tahu</item>
+        <item>Tidak</item>
+    </string-array>
+
+
+</resources>
